@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="email1">testmdolya1@tut.by</entry>
+    <entry key="password1">1q2w#E$R</entry>
+    <entry key="email2">testmdolya2@tut.by</entry>
+    <entry key="password2">1q2w#E$R</entry>
+    <entry key="text">-</entry>
+</properties>
